@@ -17,9 +17,6 @@ Resend count messages as a webhook to prevent message deletions/edits
 
 <Discord>
   <Message>399</Message>
-  <Message profile="User">
-    <Command slot="send">
-    {"399"}
-  </Message>
+  <Message>399</Message>
   <Message>403</Message>
 </Discord>
