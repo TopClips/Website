@@ -17,7 +17,7 @@ Resend count messages as a webhook to prevent message deletions/edits
 
 <Discord>
   <Message>399</Message>
-  <Message profile="countr">
+  <Message profile="User">
     {"399"}
   </Message>
 </Discord>
