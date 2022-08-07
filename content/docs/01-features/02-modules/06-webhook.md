@@ -11,7 +11,7 @@ import {
 } from "@skyra/discord-components-react";
 
 
-# Decimal
+# Webhook module
 
 Resend count messages as a webhook to prevent message deletions/edits
 
